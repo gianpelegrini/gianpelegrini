@@ -7,8 +7,8 @@ Hi there, I'm doing somethiing good by here, you can call me Gian👋
 
 <div style="display: flex">
   <a href="https://github.com/gianpelegrini">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gianpelegrini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpelegrini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gianpelegrini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpelegrini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
